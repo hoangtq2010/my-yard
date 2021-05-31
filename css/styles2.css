@@ -1,0 +1,127 @@
+.body{
+    margin: 0;
+    padding: 0;
+    background: #FDFDFE;
+}
+.container{
+    position: absolute;
+    width: 360px;
+    height: 600px;
+    background: #8de7e0;
+    text-align: center;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+.container h1{
+    font-size: 32px;
+    margin-top: 120px;
+    margin-bottom: 34px;
+}
+
+
+.container .tbox3{
+    margin-top: 158px;
+    
+}
+.tbox3{
+    height: 48px;
+    width: 280px;
+    left: 0px;
+    top: 0px;
+    border: 1px solid #DAD9DB;
+    box-sizing: border-box;
+    border-radius: 24px;
+    margin: 10px auto;
+}
+.tbox3 input{
+    background: none;
+    border: none;
+    outline: none;
+    text-align: center;
+    width: 90%;
+    line-height: 22px;
+    font-size: 18.7px;
+    font-family: "Roboto";
+    height: 48px;
+    left: 24px;
+    position: absolute;
+}
+
+.tbox{
+    height: 48px;
+    width: 280px;
+    left: 0px;
+    top: 0px;
+    border: 1px solid #DAD9DB;
+    box-sizing: border-box;
+    border-radius: 24px;
+    margin: 10px auto;
+}
+.tbox input{
+    background: none;
+    border: none;
+    outline: none;
+    text-align: center;
+    width: 90%;
+    line-height: 22px;
+    font-size: 18.7px;
+    font-family: "Roboto";
+    height: 48px;
+    left: 24px;
+    position: absolute;
+}
+.box{
+    display: flex;
+    border-radius: 24px;
+    height: 48px;
+    width: 280px;
+    left: 0px;
+    top: 0px;
+    margin: 10px auto;
+}
+.box1{
+    width: 130px;
+    height: 48px;
+    background: #92B558;
+    border-radius: 24px;
+    margin: 10px auto;
+    color: #FDFDFE;
+}
+.sign-in{
+    background: none;
+    border: none;
+    outline: none;
+    text-align: center;
+    width: 90%;
+    line-height: 22px;
+    font-family: "Roboto";
+    font-size: 18.7px;
+    color: #ffffff;
+    height: 48px;
+    left: 24px;
+}
+.box2{
+    width: 130px;
+    height: 48px;
+    background: #FDFDFE;
+    border-radius: 24px;
+    border: 1px solid #92B558;
+    box-sizing: border-box;
+    margin: 10px auto;
+    color: #92B558;
+}
+.sign-up{
+    background: none;
+    border: none;
+    outline: none;
+    text-align: center;
+    width: 90%;
+    line-height: 22px;
+    font-family: "Roboto";
+    font-size: 18.7px;
+    color: #92B558;
+    height: 48px;
+    left: 24px;
+}

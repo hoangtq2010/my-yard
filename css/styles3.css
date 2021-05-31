@@ -1,0 +1,80 @@
+.body{
+    margin: 0;
+    padding: 0;
+    background: #FDFDFE;
+}
+.container{
+    position: absolute;
+    width: 360px;
+    height: 600px;
+    background: #8de7e0;
+    text-align: center;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+.wrapper{
+    display: flex;
+    background: #92B558;
+    height: 48px;
+    width: 360px;
+    left: 20px;
+    text-align: center;
+    
+}
+.btn-container{
+    margin-left: 14px;
+    margin-top: 14px;
+    align-items: center;
+    display: block;
+}
+.content{
+    height: 34px;
+    width: 280px;
+    text-align: center;
+    margin-top: 14px;
+    color: #F5F5F7;
+    font-family: "Roboto";
+    font-size: 18.7px;
+    font-style: normal;
+    line-height: 22px;
+    letter-spacing: 0em;
+    font-weight: 500;
+    align-items: center;
+}
+
+
+.image{
+    height: 520px;
+    width: 320px;
+    align-items: center;
+    text-align: center;
+    margin-top: 45px;
+    margin-left: 45px;
+}
+.image1{
+    display: flex;
+
+}
+.image1-1{
+    margin: auto;
+}
+
+.image2{
+    margin-top: 54px;
+    display: flex;
+    
+}
+.image2-1{
+    margin: auto;
+}
+
+.image3{
+    margin-top: 54px;
+    display: flex;
+    
+}
+.image3-1{
+    margin: auto;
+}

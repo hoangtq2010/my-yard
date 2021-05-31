@@ -1,0 +1,145 @@
+.body{
+    margin: 0;
+    padding: 0;
+    background: #FDFDFE;
+}
+.container{
+    position: absolute;
+    width: 320px;
+    height: 935px;
+    background: #8de7e0;;
+    text-align: center;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+
+.wrapper{
+    display: flex;
+    background: #92B558;
+    height: 48px;
+    width: 320px;
+    text-align: center;
+}
+
+.content{
+    color: #F5F5F7;
+    font-family: "Roboto";
+    font-size: 18.7px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 22px;
+    letter-spacing: 0em;
+    display: flex;
+    text-align: center;
+    margin: auto;
+}
+.btn-container{
+    margin-left: 14px;
+    margin-top: 14px;
+    
+}
+
+.container-camera{
+    height: 210px;
+    width: 280px;
+    background: #ff0000;
+    opacity: 0.2;
+    position: absolute;
+    align-items: center;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.ellipse{
+    height: 6px;
+    width: 48px;
+    margin-left: 116px;
+    margin-top: 192px;
+    border-radius: 0px;
+}
+
+.plot1{
+    margin-left: 45px;
+    margin-top: 275px;
+    display: flex;
+}
+.plot1-1{
+    margin-left: 38px;
+}
+.plot2{
+    margin-left: 45px;
+    margin-top: 30px;
+    display: flex;
+}
+.plot2-1{
+    margin-left: 38px;
+}
+
+.box1{
+    margin-top: 45px;
+    height: 48px;
+    width: 320px;
+    background: #FDFDFE;
+    opacity: 0.3;
+}
+.add{
+    color: #1D1D1F;
+    background: none;
+    
+    outline: none;
+    text-align: center;
+    width: 90%;
+    left: 0px;
+    top: 0px;
+    border-radius: 0px;
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18.7px;
+    line-height: 22px;
+    height: 48px;
+    width: 320px;
+    align-items: center;
+    text-align: center;
+}
+.box2{
+    margin-top: 12px;
+    height: 48px;
+    width: 320px;
+    background: #FDFDFE;
+    opacity: 0.3;
+}
+.box2-1{
+    background: #bdb5b5;
+    position: absolute;
+    height: 48px;
+    width: 192px;
+    border-radius: 0px;
+}
+.box3{
+    margin-top: 12px;
+    height: 48px;
+    width: 320px;
+    background: #bdb5b5;
+    opacity: 0.3;
+}
+.task5{
+    color: #ff0000;
+    background: none;
+    outline: none;
+    text-align: center;
+    width: 90%;
+    left: 0px;
+    top: 0px;
+    border-radius: 0px;
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18.7px;
+    line-height: 22px;
+    height: 48px;
+    width: 320px;
+    align-items: center;
+    text-align: center;
+}

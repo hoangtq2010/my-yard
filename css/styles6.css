@@ -1,0 +1,57 @@
+.body{
+    margin: 0;
+    padding: 0;
+    background: #FDFDFE;
+}
+.container{
+    position: absolute;
+    height: 568px;
+    width: 320px;
+    background: #8de7e0;
+    text-align: center;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+.wrapper{
+    display: flex;
+    background: #92B558;
+    height: 48px;
+    width: 320px;
+    text-align: center;
+}
+
+.btn-container{
+    margin-left: 14px;
+    margin-top: 14px;
+    
+}
+.content{
+    color: #F5F5F7;
+    font-family: "Roboto";
+    font-size: 18.7px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 22px;
+    letter-spacing: 0em;
+    display: flex;
+    text-align: center;
+    margin: auto;
+}
+.plot1{
+    margin-left: 45px;
+    margin-top: 45px;
+    display: flex;
+}
+.plot1-1{
+    margin-left: 38px;
+}
+.plot2{
+    margin-left: 45px;
+    margin-top: 30px;
+    display: flex;
+}
+.plot2-1{
+    margin-left: 38px;
+}
